@@ -16,7 +16,12 @@
         }
     },
     "extra": {
-        "class": "Addiesaas\\Test\\Test"
+        "class": "Addiesaas\\Test\\Test",
+        "addiesaas": {
+            "container": {
+                "name": "test-container"
+            }
+        }
     },
     "require": {
         "composer-plugin-api": "^1.0"
