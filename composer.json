@@ -8,11 +8,11 @@
             "email": "contact@addiedigital.com"
         }
     ],
-    "version": "2.0.1",
+    "version": "2.0.2",
     "type": "addiesaas-container",
     "autoload": {
         "psr-4": {
-            "Addiesaas\\Test\\": "src/"
+            "Addiesaas\\Test": "src/"
         }
     },
     "extra": {
