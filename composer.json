@@ -11,8 +11,12 @@
     "version": "2.0.1",
     "type": "addiesaas-container",
     "autoload": {
+        "psr-4": {
+            "Addiesaas\\Test\\": "src/"
+        }
     },
     "extra": {
+        "class": "Addiesaas\\Test\\Test"
     },
     "require": {
         "composer-plugin-api": "^1.0"
