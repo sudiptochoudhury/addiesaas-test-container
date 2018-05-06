@@ -1,6 +1,6 @@
 {
     "name": "sudiptochoudhury/addiesaas-test-container",
-    "license": "MIT",
+    "license": "proprietary",
     "description": "AddieSaaS Porto Test Container",
     "authors": [
         {
@@ -8,8 +8,13 @@
             "email": "contact@addiedigital.com"
         }
     ],
-    "version": "2.0.0",
-    "type": "addiesaas-container"
+    "version": "2.0.1",
+    "type": "addiesaas-container",
+    "autoload": {
+    },
+    "extra": {
+    },
+    "require": {
+        "composer-plugin-api": "^1.0"
+    }
 }
-
-
