@@ -8,7 +8,7 @@
             "email": "contact@addiedigital.com"
         }
     ],
-    "version": "2.0.2",
+    "version": "2.0.3",
     "type": "addiesaas-container",
     "autoload": {
         "psr-4": {
