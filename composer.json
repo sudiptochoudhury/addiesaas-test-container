@@ -8,17 +8,13 @@
             "email": "contact@addiedigital.com"
         }
     ],
-    "version": "2.0.3",
+    "version": "2.1.0",
     "type": "addiesaas-container",
     "extra": {
-        "class": "Addiesaas\\Test\\Test",
         "addiesaas": {
             "container": {
                 "name": "TTTEest"
             }
         }
-    },
-    "require": {
-        "composer-plugin-api": "^1.0"
     }
 }
