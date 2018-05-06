@@ -12,7 +12,7 @@
     "type": "addiesaas-container",
     "autoload": {
         "psr-4": {
-            "Addiesaas\\Test": "src/"
+            "Addiesaas\\Test\\": "src/"
         }
     },
     "extra": {
