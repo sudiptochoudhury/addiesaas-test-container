@@ -8,7 +8,7 @@ namespace Addiesaas\Test;
  *
  * 
  */
-class Test implements 
+class Test
 {
     
     public function activate()
