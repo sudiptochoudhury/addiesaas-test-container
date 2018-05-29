@@ -12,8 +12,9 @@
     "type": "addiesaas-container",
     "extra": {
         "addiesaas": {
-            "container": {
+            "package": {
                 "name": "TTTEest"
+                "installPath": "TEestInsPath"
             }
         }
     },
