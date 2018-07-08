@@ -13,8 +13,8 @@
     "extra": {
         "addiesaas": {
             "package": {
-                "name": "Payment",
-                "section": "TEST"
+                "name": "Tests",
+                "section": "System"
             }
         }
     },
